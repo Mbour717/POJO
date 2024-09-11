@@ -11,7 +11,6 @@ public class User {
 		System.out.println(userInput.getUserInfo());
 	}
 	
-	
 	public User(String username, String password, String name) {
 		this.username = username;
 		this.password = password;
